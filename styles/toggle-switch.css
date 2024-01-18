@@ -27,9 +27,13 @@ input::after {
 }
 
 input:checked {
-    background-color: rgb(141, 221, 141);
+    background-color: palegoldenrod;
 }
 
 input:checked::after {
     left: 70%;
+}
+
+input:checked::before {
+    left: 10%;
 }
