@@ -33,7 +33,3 @@ input:checked {
 input:checked::after {
     left: 70%;
 }
-
-input:checked::before {
-    left: 10%;
-}
