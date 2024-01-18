@@ -1,0 +1,16 @@
+body {
+    background-color: lightslategray;
+}
+
+input {
+    -webkit-appearance: none;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #ccc;
+    transition: backgroun .3s;
+    outline: none;
+    cursor: pointer;
+}
+
